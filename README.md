@@ -96,7 +96,7 @@ text
 
 All protocol events are logged with microsecond timestamps in the format:
 
-YYYY-MM-DD HH:MM:SS.microseconds LOG <EVENT> <DETAILS>
+YYYY-MM-DD HH:MM:SS.microseconds LOG <event> &lt;details&gt;
 
 text
 
