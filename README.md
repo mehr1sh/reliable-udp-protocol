@@ -143,15 +143,6 @@ Logs are written to:
 - Encrypted payload using OpenSSL
 - Client implementation with interactive CLI
 
-## Author
+## Acknowledgements
 
-Mehrish Khan  
-[GitHub](https://github.com/mehr1sh) | [Email](mailto:khan.mehrish01@gmail.com)
-
-## License
-
-This project is for educational purposes. Feel free to use and modify.
-
----
-
-**Note**: This is a learning project implementing core networking concepts. For production use, consider established protocols like QUIC or TCP with TLS.
+This project was developed as part of the **Operating Systems and Networks** course at the **International Institute of Information Technology, Hyderabad (IIIT-H)**. Special thanks to the course instructor and teaching assistants for their guidance and support throughout the development of this shell implementation.
